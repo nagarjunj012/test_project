@@ -16,6 +16,7 @@ The script calculates revenue for each sale and summarizes revenue by product, r
 - `data/sales.csv` — sample sales dataset
 - `data/DATA_DICTIONARY.md` — dataset column descriptions
 - `PROJECT_PLAN.md` — project question and planned analysis
+- - [View the analysis notebook](sales_analysis.ipynb)
 
 ## Requirements
 
