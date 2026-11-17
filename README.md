@@ -1,7 +1,29 @@
 # Sales Analysis Project
 
-## Purpose
-This project explores sales data to identify revenue trends and product performance.
+A beginner Python project that analyzes sample sales data using Pandas and Matplotlib.
 
-## Project status
-Getting started. The dataset and analysis will be added in later steps.
+## Project question
+
+How do sales revenue and product performance vary across months, categories, and regions?
+
+## Analysis
+
+The script calculates revenue for each sale and summarizes revenue by product, region, category, and month. It also displays a bar chart of revenue by product.
+
+## Project files
+
+- `sales_analysis.py` — analysis code
+- `data/sales.csv` — sample sales dataset
+- `data/DATA_DICTIONARY.md` — dataset column descriptions
+- `PROJECT_PLAN.md` — project question and planned analysis
+
+## Requirements
+
+Python, Pandas, and Matplotlib.
+
+## Run the analysis
+
+From the project folder, run:
+
+```bash
+python sales_analysis.py
